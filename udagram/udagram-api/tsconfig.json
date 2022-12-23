@@ -63,5 +63,14 @@
   },
     "include": [
         "src/**/*"
-    ]
+    ],
+    "exclude": [
+      "node_modules"
+    ],
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true
 }
