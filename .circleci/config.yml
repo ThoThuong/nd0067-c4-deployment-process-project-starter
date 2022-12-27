@@ -50,7 +50,7 @@ jobs:
           name: Deploy App
           # TODO: Install, build, deploy in both apps
           command: |
-            echo "# START: Install, build, deploy in both apps done"
+            echo "# START: Install, build, deploy in both apps"
             echo "# CHECK IS EXISTS aws_access_key_id=${AWS_ACCESS_KEY_ID}" >> ~/.aws/credentials
             npm run deploy
             echo "# ENN: Install, build, deploy in both apps done"
