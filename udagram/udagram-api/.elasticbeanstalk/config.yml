@@ -1,9 +1,9 @@
 branch-defaults:
   default:
-    environment: thuongtn-udagram-api-29-dev
+    environment: thuongtn29-udagram-api
     group_suffix: null
 global:
-  application_name: thuongtn-udagram-api-29
+  application_name: thuongtn29-udagram-api
   branch: master
   default_ec2_keyname: thuongtn-eb-key-pair
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
