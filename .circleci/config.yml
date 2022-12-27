@@ -52,6 +52,7 @@ jobs:
           command: |
             echo "# START: Install, build, deploy in both apps"
             echo "# CHECK IS EXISTS aws_access_key_id=${AWS_ACCESS_KEY_ID}" >> ~/.aws/credentials
+            - ./scripts/deploy.sh
             npm run deploy
             echo "# ENN: Install, build, deploy in both apps done"
             
