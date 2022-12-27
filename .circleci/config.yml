@@ -50,7 +50,7 @@ jobs:
           name: Deploy App
           # TODO: Install, build, deploy in both apps
           command: |
-            npm run deploy --profile default
+            npm run deploy
             echo "# TODO: Install, build, deploy in both apps"
             
 workflows:
