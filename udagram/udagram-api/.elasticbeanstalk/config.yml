@@ -1,13 +1,13 @@
 branch-defaults:
   default:
-    environment: thuongtn29-udagram-api
+    environment: Thuongtn3udagramnanoapi-env
     group_suffix: null
 global:
-  application_name: thuongtn29-udagram-api
+  application_name: thuongtn3-udagram-nano-api
   branch: master
   default_ec2_keyname: thuongtn-eb-key-pair
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
-  default_region: us-east-1
+  default_region: ap-southeast-1
   include_git_submodules: true
   instance_profile: null
   platform_name: null
