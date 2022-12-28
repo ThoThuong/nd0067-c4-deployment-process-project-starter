@@ -70,3 +70,6 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+## FE Endpoint
+`http://thuongtn3-udacity-nano.s3-website-ap-southeast-1.amazonaws.com`
