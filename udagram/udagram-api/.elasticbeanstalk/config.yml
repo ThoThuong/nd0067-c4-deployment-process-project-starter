@@ -2,12 +2,6 @@ branch-defaults:
   default:
     environment: Thuongtn3udagramnanoapi-env
     group_suffix: null
-  master:
-    environment: Thuongtn3udagramnanoapi-env
-environment-defaults:
-  Thuongtn3udagramnanoapi-env:
-    branch: null
-    repository: null
 global:
   application_name: thuongtn3-udagram-nano-api
   branch: master
