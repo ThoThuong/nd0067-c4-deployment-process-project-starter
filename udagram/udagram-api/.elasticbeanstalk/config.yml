@@ -4,7 +4,7 @@ branch-defaults:
     group_suffix: null
 global:
   application_name: thuong-api-3
-  branch: master
+  branch: null
   default_ec2_keyname: thuongtn
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
   default_region: ap-southeast-1
@@ -14,5 +14,5 @@ global:
   platform_version: null
   profile: null
   repository: null
-  sc: git
+  sc: null
   workspace_type: Application
