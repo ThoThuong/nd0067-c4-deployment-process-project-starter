@@ -1,9 +1,9 @@
 branch-defaults:
   default:
-    environment: Thuongnaapi-env
+    environment: thuong-api-3
     group_suffix: null
 global:
-  application_name: thuongna-api
+  application_name: thuong-api-3
   branch: master
   default_ec2_keyname: thuongtn
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
